@@ -1,0 +1,9 @@
+C:\Users\esum2\source\repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\esum2\source\repos\Library\Library\bin\Debug\Library.exe
+C:\Users\esum2\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\esum2\source\repos\Library\Library\bin\Debug\ClassLibrary1.dll
+C:\Users\esum2\source\repos\Library\Library\bin\Debug\ClassLibrary1.pdb
+C:\Users\esum2\source\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\esum2\source\repos\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\esum2\source\repos\Library\Library\obj\Debug\Library.exe
+C:\Users\esum2\source\repos\Library\Library\obj\Debug\Library.pdb
